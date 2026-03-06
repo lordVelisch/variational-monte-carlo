@@ -1,0 +1,6 @@
+/data
+/.venv
+/models
+*.xml
+*.iml
+.idea/
